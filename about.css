@@ -1,0 +1,14 @@
+
+nav{
+  background-color: black;
+  padding: 11px;
+}
+nav a{
+  color: white;
+  text-decoration: none;
+}
+footer{
+  background-color: black;
+  color: white;
+  padding: 11px;
+}

@@ -1,0 +1,14 @@
+body{
+  background-image: url('../image/yuki.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+nav a{
+  border-radius: 2px;
+  background-color: black;
+  padding:2px;
+  margin: 2px;
+  color: white;
+  text-decoration: none;
+}
